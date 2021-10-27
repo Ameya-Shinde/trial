@@ -16,7 +16,7 @@ public class Variable {
 	boolean isIndian = true;
 	char section = 'E';
 	
-	String message = " Welcome to the class";
+	
 	
 	System.out.println("age--"+ age);
 	System.out.println("salary--"+salary);

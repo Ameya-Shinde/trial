@@ -17,7 +17,7 @@ public class IfElse {
 		System.out.println(100>10); //true
 		System.out.println(100<10);
 		System.out.println(100==10);
-		System.out.println(100!=100);
+		
 		
 		System.out.println(10>=50);
 		System.out.println(50>=50);
